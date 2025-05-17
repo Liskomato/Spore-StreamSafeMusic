@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod description="Replaces Spore's copyrighted audio tracks with royalty-free ones." displayName="Stream-Safe Music" dllsBuild="$SPOREMOD_DLLS_BUILD" hasCustomInstaller="false" installerSystemVersion="1.0.1.2" isExperimental="$SPOREMOD_EXPERIMENTAL" unique="Stream-SafeMusic">
+  <prerequisite game="GalacticAdventures">Stream-Safe_Music.package</prerequisite>
+</mod>

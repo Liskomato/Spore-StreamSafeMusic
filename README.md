@@ -5,6 +5,9 @@ This mod replaces the music tracks that get flagged in YouTube as copyrighted ma
 
 To avoid further problems, it is advised to always add the Creative Commons licenses below in your video descriptions while using this mod.
 
+### **THIS MOD IS FULLY COMPATIBLE WITH [SHARE-SAFE MUSIC](https://github.com/Liskomato/Spore-ShareSafeMusic).**
+It will replace the affected tracks introduced in that mod, and adds some extra compatibility files as a plus.
+
 ## Credits
 Developed by **[Liskomato](https://github.com/Liskomato)**
 

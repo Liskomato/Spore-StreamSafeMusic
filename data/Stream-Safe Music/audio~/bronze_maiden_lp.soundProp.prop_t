@@ -1,0 +1,6 @@
+uint32 codec 5
+bool islooped true
+key musicTemplate 0x869DB904
+keys samples
+	Midnight_Tale_RE_BardsSong
+end

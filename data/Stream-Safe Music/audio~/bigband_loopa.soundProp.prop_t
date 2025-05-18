@@ -1,0 +1,6 @@
+uint32 codec 5
+bool islooped true
+key musicTemplate 0x869DB904
+keys samples
+	Rollin_at_5_RE_BigBand1
+end

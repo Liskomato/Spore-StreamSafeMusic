@@ -1,0 +1,6 @@
+uint32 codec 5
+float gain 2
+key musicTemplate 0x869DB904
+keys samples
+	SCPx1x_RE_Horror
+end

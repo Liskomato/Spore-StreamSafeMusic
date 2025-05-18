@@ -1,0 +1,43 @@
+key parentAudio music_base
+keys addgroups
+	plannerpause_group
+	travelmusic_group
+end
+floats atmospheric
+	0
+	0
+	10
+	25050
+	15
+	4000
+end
+floats attenuation
+	0
+	1
+	0.3
+	0.5
+	0.8
+	0.3
+	1
+	0
+end
+float fadeout 1
+float gain 0.45
+bool is3d true
+bool islooped true
+bool isvirtual true
+float maxdistance 55
+float mindistance 15
+float polyphony 1
+keys samples
+	Glee_Club_Polka_RE_ArrayOfFlowers
+end
+float startdelay 2
+floats wetlevelcurve
+	0
+	0
+	8
+	0
+	13
+	0.25
+end

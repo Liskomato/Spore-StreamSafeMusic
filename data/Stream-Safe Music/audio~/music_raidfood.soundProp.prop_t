@@ -1,0 +1,44 @@
+key parentAudio music_base
+keys addgroups
+	plannerpause_group
+	travelmusic_group
+end
+floats atmospheric
+	0
+	0
+	10
+	25050
+	15
+	8000
+end
+floats attenuation
+	0
+	1
+	0.3
+	0.5
+	0.8
+	0.3
+	1
+	0
+end
+uint32 codec 5
+float fadeout 1
+float gain 0.6
+bool is3d true
+bool islooped true
+bool isvirtual true
+float maxdistance 45
+float mindistance 15
+float polyphony 1
+keys samples
+	Cartoon_Bank_Heist_Doug_Maxwell_Media_Right_Productions_RE_raidfood
+end
+float startdelay 2
+floats wetlevelcurve
+	0
+	0
+	8
+	0
+	13
+	0.05
+end

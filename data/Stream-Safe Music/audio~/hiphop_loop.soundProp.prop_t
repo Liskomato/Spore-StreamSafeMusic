@@ -1,0 +1,6 @@
+uint32 codec 5
+bool islooped true
+key musicTemplate 0x869DB904
+keys samples
+	Pyro_Flow_RE_California
+end

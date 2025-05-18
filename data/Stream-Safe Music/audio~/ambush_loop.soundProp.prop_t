@@ -1,0 +1,5 @@
+uint32 codec 5
+key musicTemplate 0x869DB904
+keys samples
+	Movement_Proposition_RE_Ambush
+end

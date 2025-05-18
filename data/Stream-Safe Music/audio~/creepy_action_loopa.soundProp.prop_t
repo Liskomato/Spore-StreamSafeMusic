@@ -1,0 +1,6 @@
+uint32 codec 5
+float gain 1.8
+key musicTemplate 0x869DB904
+keys samples
+	Some_Amount_of_Evil_RE_CreepyAction1
+end

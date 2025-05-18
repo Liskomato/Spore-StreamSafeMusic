@@ -1,0 +1,5 @@
+uint32 codec 5
+key musicTemplate 0x869DB904
+keys samples
+	Moon_Vision_Chris_Haugen_RE_Wander
+end

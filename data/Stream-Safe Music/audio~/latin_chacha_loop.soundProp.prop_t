@@ -1,0 +1,6 @@
+uint32 codec 5
+bool islooped true
+key musicTemplate 0x869DB904
+keys samples
+	Cha_Cha_Chango_Quincas_Moreira_RE_ChaCha
+end

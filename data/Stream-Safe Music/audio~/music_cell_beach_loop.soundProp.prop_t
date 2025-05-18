@@ -1,0 +1,14 @@
+key parentAudio music_base
+keys addgroups
+	city_music_group
+end
+float fadein 5
+float fadeout 13
+float gain 0.85
+bool ignorecontext true
+bool islooped true
+float polyphony 1
+float priority 10
+keys samples
+	World's_Sunrise_Jimena_Contreras_RE_CellBrain
+end

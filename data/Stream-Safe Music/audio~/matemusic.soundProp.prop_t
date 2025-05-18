@@ -1,0 +1,14 @@
+key parentAudio music_base
+float fadein 0
+float fadeout 4
+float gain 0.431
+bool is3d false
+bool islooped false
+float polyphony 1
+float priority 2
+keys samples
+	Carried_Lauren_Duski_RE_matemusic9
+	Full_Moon_Empty_House_Trevor_Garrod_RE_matemusic8
+	Islabonita_An_Jone_RE_matemusic6
+	Soft_Feeling_Cheel_RE_matemusic7
+end

@@ -1,0 +1,7 @@
+uint32 codec 5
+bool islooped true
+key musicTemplate 0x869DB904
+keys samples
+	The_New_Order_Aaron_Kenny_RE_SpaceWarriors
+	Unholy_Knight_RE_SpaceWarriors
+end

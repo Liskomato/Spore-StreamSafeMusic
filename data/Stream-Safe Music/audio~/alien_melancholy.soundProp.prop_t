@@ -1,0 +1,5 @@
+key parentAudio npc_cityhall_base
+bool islooped true
+keys samples
+	Yonder_Hill_and_Dale_Aaron_Kenny_RE_Reminiscene
+end

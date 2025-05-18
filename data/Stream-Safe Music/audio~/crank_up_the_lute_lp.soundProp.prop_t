@@ -1,0 +1,6 @@
+uint32 codec 5
+bool islooped true
+key musicTemplate 0x869DB904
+keys samples
+	A_Baroque_Letter_Aaron_Kenny_RE_YeOldLute
+end

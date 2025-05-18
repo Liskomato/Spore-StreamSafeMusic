@@ -1,0 +1,7 @@
+uint32 codec 5
+float gain 0.5
+bool islooped true
+key musicTemplate 0x869DB904
+keys samples
+	Tafi_Maradi_no_voice_RE_WorldPercussion
+end

@@ -1,0 +1,7 @@
+uint32 codec 5
+float gain 2
+bool islooped true
+key musicTemplate 0x869DB904
+keys samples
+	Down_with_Paradise_Norma_Rockwel_RE_Boogaloo
+end

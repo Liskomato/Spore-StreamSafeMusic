@@ -1,0 +1,5 @@
+uint32 codec 5
+key musicTemplate 0x869DB904
+keys samples
+	Thomas_Jefferson_March_United_States_Marine_Band_RE_Vaudeville
+end

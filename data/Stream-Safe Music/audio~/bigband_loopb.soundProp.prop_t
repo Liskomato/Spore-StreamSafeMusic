@@ -1,0 +1,6 @@
+uint32 codec 5
+bool islooped true
+key musicTemplate 0x869DB904
+keys samples
+	Big_Swing_Band_Audionautix_RE_BigBand2
+end

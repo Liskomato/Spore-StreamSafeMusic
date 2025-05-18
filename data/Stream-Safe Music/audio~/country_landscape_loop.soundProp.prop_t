@@ -1,0 +1,5 @@
+uint32 codec 5
+key musicTemplate 0x869DB904
+keys samples
+	Michigan_Greens_Dan_Lebowitz_RE_CountryLandscape
+end

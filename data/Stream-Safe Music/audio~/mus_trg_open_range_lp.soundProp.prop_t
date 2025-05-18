@@ -1,0 +1,43 @@
+key parentAudio music_base
+keys addgroups
+	plannerpause_group
+	travelmusic_group
+end
+floats atmospheric
+	0
+	0
+	10
+	25050
+	15
+	4000
+end
+floats attenuation
+	0
+	1
+	0.3
+	0.5
+	0.8
+	0.3
+	1
+	0
+end
+uint32 codec 4
+float fadeout 2
+float gain 0.6
+bool is3d true
+bool islooped true
+float maxdistance 55
+float mindistance 15
+float priority 2
+keys samples
+	Roundup_on_the_Prairie_Aaron_Kenny_RE_trg_openrange
+end
+float startdelay 2
+floats wetlevelcurve
+	0
+	0
+	8
+	0
+	13
+	0.25
+end

@@ -1,0 +1,7 @@
+uint32 codec 5
+float gain 1.5
+bool islooped true
+key musicTemplate 0x869DB904
+keys samples
+	Satiate_RE_TheShow
+end

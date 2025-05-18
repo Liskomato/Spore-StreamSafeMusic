@@ -1,0 +1,6 @@
+uint32 codec 5
+key musicTemplate 0x869DB904
+keys samples
+	Faster_Does_It_RE_Bebop
+	Off_to_Osaka_RE_Bebop
+end

@@ -1,0 +1,5 @@
+uint32 codec 5
+key musicTemplate 0x869DB904
+keys samples
+	Desert_Caravan_Aaron_Kenny_RE_AncientKingdom1
+end

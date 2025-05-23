@@ -1,0 +1,10 @@
+key parentAudio ep1_music_base
+uint32 codec 5
+float gain 0.75
+bool is3d false
+keys samples
+	sfx_cin_city_takeover_econ
+	sfx_cin_city_takeover_mili
+	sfx_cin_city_takeover_relig
+	sfx_cin_civ_econ
+end

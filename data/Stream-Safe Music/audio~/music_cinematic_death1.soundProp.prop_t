@@ -1,0 +1,28 @@
+key parentAudio ep1_music_base
+uint32 codec 5
+float gain 0.475
+bool is3d false
+keys samples
+	music_civ_lose
+	Sfx_civ_lose_game
+	music_space_war_low
+	music_space_war_gong1
+	music_space_war_gong2
+	music_space_war_gong3
+	music_space_war_end
+	music_cin_trg_losehut
+	fading_fall_guitar
+	music_cell_chaseloop
+	maxwell-C1
+	maxwell-A1
+	bicycle1
+	bicycle2
+	bicycle3
+	blackhole_B2
+	bongo1
+	bongo3
+	bowed_cymbal1
+	bowed_cymbal2
+	bowed_cymbal3
+	bowed_cymbal4
+end

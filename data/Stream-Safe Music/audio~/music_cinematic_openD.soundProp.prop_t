@@ -1,0 +1,11 @@
+uint32 codec 5
+float gain 0.475
+bool is3d false
+key musicTemplate ep1_music_base
+keys samples
+	sfx_cin_civ_intro
+	sfx_cin_civ_npc_appear
+	sfx_cin_civ_spice
+	sfx_city_upgrade
+end
+float startdelay 1.3

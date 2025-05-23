@@ -1,0 +1,12 @@
+uint32 codec 5
+float gain 0.475
+bool is3d false
+key musicTemplate ep1_music_base
+keys samples
+	music_gge_cell_trans
+	music_cell_beach_end
+	music_brain_upgrade
+	music_crg_claimnest
+	music_crg_migrate
+	music_crg_to_trg
+end

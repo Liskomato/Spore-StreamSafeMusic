@@ -1,0 +1,9 @@
+key parentAudio music_base
+float fadein 0.5
+float fadeout 0.5
+float gain 0.3
+bool is3d false
+bool islooped true
+keys samples
+	World's_Sunrise_Jimena_Contreras_RE_CellBrain
+end
